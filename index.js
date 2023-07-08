@@ -1,8 +1,8 @@
 const canvas = document.querySelector("canvas");
 const c = canvas.getContext("2d");
 // only works as a square for now
-const width = 800;
-const height = 800;
+const width = 500;
+const height = 500;
 const rows = 100;
 const columns = 100;
 
